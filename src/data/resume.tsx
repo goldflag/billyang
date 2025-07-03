@@ -117,7 +117,7 @@ export const DATA = {
       description: "Worked on perception platform team.",
     },
     {
-      company: "Truebill",
+      company: "Truebill (YC W16)",
       badges: [],
       href: "https://truebill.com",
       location: "Remote",
@@ -140,7 +140,7 @@ export const DATA = {
     },
     {
       school: "Troy High School",
-      href: "https://troyhigh.org",
+      href: "https://troycolts.org",
       degree: "High School Diploma",
       logoUrl: "/troy.png",
       start: "2014",
@@ -216,7 +216,7 @@ export const DATA = {
       dates: "August 2020 - March 2023",
       active: true,
       description:
-        "A complete rewrite of the Tomato.gg website after a near year-long hiatus.",
+        "A complete rewrite of the Tomato.gg website after a near year-long hiatus. 1.5m+ visits a month.",
       technologies: [
         "Next.js",
         "Typescript",
